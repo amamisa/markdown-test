@@ -105,6 +105,7 @@ print("this is Python!")
 - [x] Task 1
 - [x] Task 2
 - [ ] Task 3
+
   <!-- Emojie's -->
   :smiley:
 
